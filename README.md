@@ -3,7 +3,6 @@
 [Autor](https://www.linkedin.com/in/alberto-oliveira-barbosa/)
 ---
 
-***OBS: Projeto em desenvolvimento***
 
 
 ---
@@ -29,4 +28,4 @@ Para manipulação dos dados foi usado o Apache Spark, usando a interface [PySpa
 
 Nessa parte é feita a busca por padrões, entendimento dos dados e extração de insights.
 
-No momento esta parte está em desenvolvimento, e as tecnologias usadas atualmente são: a biblioteca [Pandas](https://pandas.pydata.org/) para modelagem dos dados, junto da biblioteca [Seaborn](https://seaborn.pydata.org/) para o desenvolvimento dos gráficos da análise.
+As tecnologias usadas atualmente são: a biblioteca [Pandas](https://pandas.pydata.org/) e [Numpy](https://numpy.org/) para modelagem dos dados, junto da biblioteca [Seaborn](https://seaborn.pydata.org/) para o desenvolvimento dos gráficos da análise.
